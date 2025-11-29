@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Sobre a Startup
+# Sobre a Startup
 A **BlueWallet Tech** é uma startup fictícia criada para a disciplina de **Engenharia de Software III**, com o objetivo de desenvolver um protótipo funcional e aplicar práticas reais de mercado: planejamento, backlog, prototipação, qualidade, testes e documentação.
 
 ---
@@ -18,7 +18,7 @@ Um aplicativo intuitivo de **controle financeiro pessoal**, permitindo que o usu
 |-------|--------|
 | Ménythen Antunes | Product Owner (PO) |
 | Ménythen Macedo | Scrum Master |
-| Mény Then | Dev Team |
+| Mény | Dev Team |
 
 
 ---
@@ -134,4 +134,5 @@ Como **usuário**, quero **registrar uma despesa**, para **acompanhar meus gasto
 #  Sprint 0 — Configurações Técnicas
 
 ##  Estrutura de pastas do repositório
+
 
